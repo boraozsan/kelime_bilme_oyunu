@@ -1,0 +1,1 @@
+kelime_listesi=["maymun","karpuz","edirne","kayseri","hafta","trafik","vergi","erkek","bilgisayar","kodlama","oyuncak","kestane"]
